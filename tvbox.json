@@ -17,6 +17,16 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "yyzy_all",
+      "name": "优优资源(综合库)",
+      "type": 0,
+      "api": "https://api.yyzy-tv.vip/inc/ldg_api_all.php",
+      "playUrl": "https://vip.zykbf.com/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     }
   ]
 }
