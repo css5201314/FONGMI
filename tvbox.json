@@ -12,7 +12,7 @@
   "key": "yyzy_tv",
   "name": "优优资源",
   "type": 1,
-  "api": "https://api.yyzy-tv.vip/inc/apijson.php?ac=videolist",
+  "api": "https://api.yyzy-tv.vip/inc/apijson.php?ac=list",
   "playUrl": "https://vip.zykbf.com/?url=",
   "searchable": 1,
   "quickSearch": 1,
