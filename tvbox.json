@@ -1,0 +1,22 @@
+{
+  "spider": "",
+  "parses": [
+    {
+      "name": "资源专解析",
+      "type": 0,
+      "url": "https://vip.zykbf.com/?url="
+    }
+  ],
+  "sites": [
+    {
+      "key": "yyzy_tv",
+      "name": "优优资源",
+      "type": 1,
+      "api": "https://api.yyzy-tv.vip/inc/apijson.php",
+      "playUrl": "https://vip.zykbf.com/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }
+  ]
+}
