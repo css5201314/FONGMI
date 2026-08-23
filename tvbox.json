@@ -8,19 +8,21 @@
     }
   ],
   "sites": [
-{
-  "key": "yyzy_tv",
-  "name": "优优资源",
-  "type": 1,
-  "api": "https://api.yyzy-tv.vip/inc/apijson.php",
-  "playUrl": "https://vip.zykbf.com/?url=",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "categories": [
-    "电影",
-    "连续剧",
-    "综艺",
-    "动漫"
+    {
+      "key": "yyzy_tv",
+      "name": "优优资源",
+      "type": 1,
+      "api": "https://api.yyzy-tv.vip/inc/apijson.php?ac=videolist",
+      "playUrl": "https://vip.zykbf.com/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "电影",
+        "连续剧",
+        "综艺",
+        "动漫"
+      ]
+    }
   ]
 }
