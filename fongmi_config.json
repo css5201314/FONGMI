@@ -1,18 +1,53 @@
 {
-  "spider": "",
-  "parses": [
-    {"name": "优质解析", "type": 0, "url": "https://vip.zykbf.com/?url="}
-  ],
   "sites": [
     {
-      "key": "test",
-      "name": "测试源(优质)",
-      "type": 3,
-      "api": "https://api.yyzy-tv.vip/inc/apijson.php?ac=list",
-      "playUrl": "https://vip.zykbf.com/?url=",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+      "key": "yyzy",
+      "name": "优质资源",
+      "type": 1,
+      "api": "https://api.yyzy-tv.vip/inc/apijson.php",
+      "playUrl": "https://vip.zykbf.com/?url="
+    },
+    {
+      "key": "wujin",
+      "name": "无尽资源",
+      "type": 1,
+      "api": "https://api.wujinapi.me/api.php/provide/vod/",
+      "playUrl": "https://jx.xllmcms.com/dplayer/?url="
+    },
+    {
+      "key": "yinghua",
+      "name": "樱花资源",
+      "type": 1,
+      "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/",
+      "playUrl": "https://jx.yhzybf.com/player/jx.php?url="
+    },
+    {
+      "key": "guangsu",
+      "name": "光速资源",
+      "type": 1,
+      "api": "https://api.guangsuapi.com/api.php/provide/vod/josn",
+      "playUrl": "https://www.gszyv.com/m3u8/?url="
+    },
+    {
+      "key": "hongniu",
+      "name": "红牛资源",
+      "type": 1,
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod/at/josn/",
+      "playUrl": "https://www.hnjiexi.com/m3u8/?url="
+    },
+    {
+      "key": "ikun",
+      "name": "IKUN资源",
+      "type": 1,
+      "api": "https://ikunzyapi.com/api.php/provide/vod/at/json",
+      "playUrl": "https://www.ikdmjx.com/?url="
+    },
+    {
+      "key": "suoni",
+      "name": "索尼资源",
+      "type": 1,
+      "api": "https://suoniapi.com/api.php/provide/vod/",
+      "playUrl": "https://www.snplayer.com/?url="
     }
   ]
 }
