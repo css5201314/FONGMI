@@ -16,13 +16,7 @@
       "playUrl": "https://vip.zykbf.com/?url=",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "电影",
-        "连续剧",
-        "综艺",
-        "动漫"
-      ]
+      "filterable": 1
     }
   ]
 }
