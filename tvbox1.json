@@ -1,0 +1,147 @@
+{
+  "spider": "",
+  "parses": [
+    {
+      "name": "优质资源解析",
+      "type": 0,
+      "url": "https://vip.zykbf.com/?url="
+    },
+    {
+      "name": "无尽资源解析",
+      "type": 0,
+      "url": "https://jx.xllmcms.com/dplayer/?url="
+    },
+    {
+      "name": "樱花资源解析",
+      "type": 0,
+      "url": "https://jx.yhzybf.com/player/jx.php?url="
+    },
+    {
+      "name": "光速资源解析",
+      "type": 0,
+      "url": "https://www.gszyv.com/m3u8/?url="
+    },
+    {
+      "name": "红牛资源解析",
+      "type": 0,
+      "url": "https://www.hnjiexi.com/m3u8/?url="
+    },
+    {
+      "name": "红牛备用解析",
+      "type": 0,
+      "url": "https://www.hongniujiexi.com/m3u8/?url="
+    },
+    {
+      "name": "iKun解析",
+      "type": 0,
+      "url": "https://www.ikdmjx.com/?url="
+    },
+    {
+      "name": "索尼解析",
+      "type": 0,
+      "url": "https://www.snplayer.com/?url="
+    }
+  ],
+  "sites": [
+    {
+      "key": "yyzy",
+      "name": "优质资源",
+      "type": 1,
+      "api": "https://api.yyzy-tv.vip/inc/apijson.php",
+      "playUrl": "https://vip.zykbf.com/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "wujin",
+      "name": "无尽资源",
+      "type": 1,
+      "api": "https://api.wujinapi.me/api.php/provide/vod/",
+      "playUrl": "https://jx.xllmcms.com/dplayer/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "yinghua",
+      "name": "樱花资源",
+      "type": 1,
+      "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/",
+      "playUrl": "https://jx.yhzybf.com/player/jx.php?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "guangsu_json",
+      "name": "光速资源",
+      "type": 1,
+      "api": "https://api.guangsuapi.com/api.php/provide/vod/",
+      "playUrl": "https://www.gszyv.com/m3u8/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "guangsu_m3u8",
+      "name": "光速资源(M3U8)",
+      "type": 1,
+      "api": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/",
+      "playUrl": "https://www.gszyv.com/m3u8/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "hongniu_json",
+      "name": "红牛资源",
+      "type": 1,
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
+      "playUrl": "https://www.hnjiexi.com/m3u8/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "hongniu_m3u8",
+      "name": "红牛资源(M3U8)",
+      "type": 1,
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod/from/hnm3u8/",
+      "playUrl": "https://www.hnjiexi.com/m3u8/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "ikun_json",
+      "name": "iKun资源",
+      "type": 1,
+      "api": "https://ikunzyapi.com/api.php/provide/vod/",
+      "playUrl": "https://www.ikdmjx.com/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "ikun_m3u8",
+      "name": "iKun资源(M3U8)",
+      "type": 1,
+      "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/",
+      "playUrl": "https://www.ikdmjx.com/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "suoni",
+      "name": "索尼资源",
+      "type": 1,
+      "api": "https://suoniapi.com/api.php/provide/vod/",
+      "playUrl": "https://www.snplayer.com/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }
+  ]
+}
