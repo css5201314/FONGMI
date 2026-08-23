@@ -11,12 +11,12 @@
 {
   "key": "yyzy_tv",
   "name": "优优资源",
-  "type": 1,
-  "api": "https://api.yyzy-tv.vip/inc/apijson.php?ac=list",
+  "type": 0,
+  "api": "https://api.yyzy-tv.vip/inc/apijson.php",
   "playUrl": "https://vip.zykbf.com/?url=",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1
-}
+}}
   ]
 }
