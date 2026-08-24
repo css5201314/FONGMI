@@ -14,7 +14,7 @@
       "key": "yyzy_tv",
       "name": "优优资源",
       "type": 1,
-      "api": "https://api.yyzy-tv.vip/inc/apijson.php",
+      "api": "https://360zy.com/api.php/provide/vod/",
       "playUrl": "https://onepage.czl.net/xg/?url=",
       "playUrl": "https://dbzy99.com:699/?url=",
       "searchable": 1,
