@@ -1,4 +1,7 @@
-[
+{
+  "spider": "",
+  "wallpaper": "http://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1",
+  "sites": [
   {
     "name": "360资源站",
     "api": "https://360zy.com/api.php/provide/vod/",
