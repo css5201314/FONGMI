@@ -1,0 +1,25 @@
+{
+  "spider": "",
+  "parses": [
+    {
+      "name": "资源专解析",
+      "type": 0,
+      "url": "https://onepage.czl.net/xg/?url="
+      "url": "https://dbzy99.com:699/?url="
+      
+    }
+  ],
+  "sites": [
+    {
+      "key": "yyzy_tv",
+      "name": "优优资源",
+      "type": 1,
+      "api": "https://api.yyzy-tv.vip/inc/apijson.php",
+      "playUrl": "https://onepage.czl.net/xg/?url=",
+      "playUrl": "https://dbzy99.com:699/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }
+  ]
+}
