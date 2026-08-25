@@ -1,0 +1,135 @@
+{
+  "spider": "",
+  "sites": [
+    {
+      "key": "360zy",
+      "name": "360资源",
+      "type": 1,
+      "api": "https://360zyzz.com/api.php/provide/vod/from/360m3u8/at/json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playUrl": "https://www.360bffxz.com/player/?url="
+    },
+    {
+      "key": "yayazy",
+      "name": "鸭鸭资源",
+      "type": 1,
+      "api": "https://cj.yayazy.net/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playUrl": "https://jx.yayazy.cc/m3u8/?url="
+    },
+    {
+      "key": "guangsuzy",
+      "name": "光速资源",
+      "type": 1,
+      "api": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playUrl": "https://www.guangsujx.com/m3u8/?url="
+    },
+    {
+      "key": "tyyszy",
+      "name": "天涯影视",
+      "type": 1,
+      "api": "https://ty.tyyszy5.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playUrl": "https://tyyszywjx.com/?url="
+    },
+    {
+      "key": "hhzy",
+      "name": "豪华资源",
+      "type": 1,
+      "api": "https://hhzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playUrl": "https://hhzyjiexi.com/play/?url="
+    },
+    {
+      "key": "jipinzy",
+      "name": "极品资源",
+      "type": 1,
+      "api": "https://jipinvip1.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playUrl": "https://jipinvip1.com/m3u8/?url="
+    }
+  ],
+  "parses": [
+    {
+      "name": "360解析",
+      "type": 0,
+      "url": "https://www.360bffxz.com/player/?url=",
+      "ext": {
+        "header": {
+          "User-Agent": "Mozilla/5.0"
+        }
+      }
+    },
+    {
+      "name": "鸭鸭解析",
+      "type": 0,
+      "url": "https://jx.yayazy.cc/m3u8/?url=",
+      "ext": {
+        "header": {
+          "User-Agent": "Mozilla/5.0"
+        }
+      }
+    },
+    {
+      "name": "光速解析",
+      "type": 0,
+      "url": "https://www.guangsujx.com/m3u8/?url=",
+      "ext": {
+        "header": {
+          "User-Agent": "Mozilla/5.0"
+        }
+      }
+    },
+    {
+      "name": "天涯解析",
+      "type": 0,
+      "url": "https://tyyszywjx.com/?url=",
+      "ext": {
+        "header": {
+          "User-Agent": "Mozilla/5.0"
+        }
+      }
+    },
+    {
+      "name": "豪华解析",
+      "type": 0,
+      "url": "https://hhzyjiexi.com/play/?url=",
+      "ext": {
+        "header": {
+          "User-Agent": "Mozilla/5.0"
+        }
+      }
+    },
+    {
+      "name": "极品解析",
+      "type": 0,
+      "url": "https://jipinvip1.com/m3u8/?url=",
+      "ext": {
+        "header": {
+          "User-Agent": "Mozilla/5.0"
+        }
+      }
+    }
+  ],
+  "rules": [
+    {
+      "name": "m3u8",
+      "hosts": ["*"],
+      "regex": [".*\\.m3u8.*"]
+    }
+  ],
+  "flags": ["360m3u8", "gsm3u8", "m3u8"]
+}
