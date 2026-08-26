@@ -462,7 +462,7 @@
       "key": "source_c5e83d2f",
       "name": "色猫资源站",
       "type": 1,
-      "api": "https://caiji.semaozy.net/inc/api.php",
+      "api": "https://api.souavzyw.net/api.php/provide/vod",
       "timeout": 12,
       "searchable": 1,
       "changeable": 1,
