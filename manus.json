@@ -13,6 +13,9 @@
       "changeable": 1,
       "quickSearch": 1,
       "timeout": 15,
+      "header": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36"
+      },
       "style": {
         "type": "rect",
         "ratio": 0.75
@@ -28,6 +31,9 @@
       "changeable": 1,
       "quickSearch": 1,
       "timeout": 15,
+      "header": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36"
+      },
       "style": {
         "type": "rect",
         "ratio": 0.75
@@ -43,6 +49,9 @@
       "changeable": 1,
       "quickSearch": 1,
       "timeout": 15,
+      "header": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36"
+      },
       "style": {
         "type": "rect",
         "ratio": 0.75
@@ -58,6 +67,9 @@
       "changeable": 1,
       "quickSearch": 1,
       "timeout": 15,
+      "header": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36"
+      },
       "style": {
         "type": "rect",
         "ratio": 0.75
@@ -73,6 +85,9 @@
       "changeable": 1,
       "quickSearch": 1,
       "timeout": 15,
+      "header": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36"
+      },
       "style": {
         "type": "rect",
         "ratio": 0.75
@@ -88,6 +103,9 @@
       "changeable": 1,
       "quickSearch": 1,
       "timeout": 15,
+      "header": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36"
+      },
       "style": {
         "type": "rect",
         "ratio": 0.75
@@ -103,6 +121,9 @@
       "changeable": 1,
       "quickSearch": 1,
       "timeout": 15,
+      "header": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36"
+      },
       "style": {
         "type": "rect",
         "ratio": 0.75
@@ -118,6 +139,9 @@
       "changeable": 1,
       "quickSearch": 1,
       "timeout": 15,
+      "header": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36"
+      },
       "style": {
         "type": "rect",
         "ratio": 0.75
@@ -133,6 +157,9 @@
       "changeable": 1,
       "quickSearch": 1,
       "timeout": 15,
+      "header": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36"
+      },
       "style": {
         "type": "rect",
         "ratio": 0.75
@@ -148,6 +175,9 @@
       "changeable": 1,
       "quickSearch": 1,
       "timeout": 15,
+      "header": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36"
+      },
       "style": {
         "type": "rect",
         "ratio": 0.75
@@ -163,6 +193,9 @@
       "changeable": 1,
       "quickSearch": 1,
       "timeout": 15,
+      "header": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36"
+      },
       "style": {
         "type": "rect",
         "ratio": 0.75
@@ -178,6 +211,9 @@
       "changeable": 1,
       "quickSearch": 1,
       "timeout": 15,
+      "header": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36"
+      },
       "style": {
         "type": "rect",
         "ratio": 0.75
@@ -193,6 +229,9 @@
       "changeable": 1,
       "quickSearch": 1,
       "timeout": 15,
+      "header": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36"
+      },
       "style": {
         "type": "rect",
         "ratio": 0.75
@@ -208,6 +247,9 @@
       "changeable": 1,
       "quickSearch": 1,
       "timeout": 15,
+      "header": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36"
+      },
       "style": {
         "type": "rect",
         "ratio": 0.75
@@ -223,6 +265,9 @@
       "changeable": 1,
       "quickSearch": 1,
       "timeout": 15,
+      "header": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36"
+      },
       "style": {
         "type": "rect",
         "ratio": 0.75
@@ -238,6 +283,9 @@
       "changeable": 1,
       "quickSearch": 1,
       "timeout": 15,
+      "header": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36"
+      },
       "style": {
         "type": "rect",
         "ratio": 0.75
@@ -253,6 +301,9 @@
       "changeable": 1,
       "quickSearch": 1,
       "timeout": 15,
+      "header": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36"
+      },
       "style": {
         "type": "rect",
         "ratio": 0.75
@@ -267,6 +318,9 @@
       "changeable": 1,
       "quickSearch": 1,
       "timeout": 15,
+      "header": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36"
+      },
       "style": {
         "type": "rect",
         "ratio": 0.75
@@ -282,6 +336,9 @@
       "changeable": 1,
       "quickSearch": 1,
       "timeout": 15,
+      "header": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36"
+      },
       "style": {
         "type": "rect",
         "ratio": 0.75
@@ -297,6 +354,9 @@
       "changeable": 1,
       "quickSearch": 1,
       "timeout": 15,
+      "header": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36"
+      },
       "style": {
         "type": "rect",
         "ratio": 0.75
@@ -312,6 +372,9 @@
       "changeable": 1,
       "quickSearch": 1,
       "timeout": 15,
+      "header": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36"
+      },
       "style": {
         "type": "rect",
         "ratio": 0.75
@@ -327,6 +390,9 @@
       "changeable": 1,
       "quickSearch": 1,
       "timeout": 15,
+      "header": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36"
+      },
       "style": {
         "type": "rect",
         "ratio": 0.75
@@ -342,6 +408,9 @@
       "changeable": 1,
       "quickSearch": 1,
       "timeout": 15,
+      "header": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36"
+      },
       "style": {
         "type": "rect",
         "ratio": 0.75
@@ -357,6 +426,9 @@
       "changeable": 1,
       "quickSearch": 1,
       "timeout": 15,
+      "header": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36"
+      },
       "style": {
         "type": "rect",
         "ratio": 0.75
@@ -372,6 +444,9 @@
       "changeable": 1,
       "quickSearch": 1,
       "timeout": 15,
+      "header": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36"
+      },
       "style": {
         "type": "rect",
         "ratio": 0.75
@@ -387,6 +462,9 @@
       "changeable": 1,
       "quickSearch": 1,
       "timeout": 15,
+      "header": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36"
+      },
       "style": {
         "type": "rect",
         "ratio": 0.75
@@ -402,6 +480,9 @@
       "changeable": 1,
       "quickSearch": 1,
       "timeout": 15,
+      "header": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36"
+      },
       "style": {
         "type": "rect",
         "ratio": 0.75
@@ -417,6 +498,9 @@
       "changeable": 1,
       "quickSearch": 1,
       "timeout": 15,
+      "header": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36"
+      },
       "style": {
         "type": "rect",
         "ratio": 0.75
@@ -432,6 +516,9 @@
       "changeable": 1,
       "quickSearch": 1,
       "timeout": 15,
+      "header": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36"
+      },
       "style": {
         "type": "rect",
         "ratio": 0.75
@@ -447,6 +534,9 @@
       "changeable": 1,
       "quickSearch": 1,
       "timeout": 15,
+      "header": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36"
+      },
       "style": {
         "type": "rect",
         "ratio": 0.75
@@ -462,6 +552,9 @@
       "changeable": 1,
       "quickSearch": 1,
       "timeout": 15,
+      "header": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36"
+      },
       "style": {
         "type": "rect",
         "ratio": 0.75
@@ -477,6 +570,9 @@
       "changeable": 1,
       "quickSearch": 1,
       "timeout": 15,
+      "header": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36"
+      },
       "style": {
         "type": "rect",
         "ratio": 0.75
@@ -492,6 +588,9 @@
       "changeable": 1,
       "quickSearch": 1,
       "timeout": 15,
+      "header": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36"
+      },
       "style": {
         "type": "rect",
         "ratio": 0.75
@@ -507,6 +606,9 @@
       "changeable": 1,
       "quickSearch": 1,
       "timeout": 15,
+      "header": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36"
+      },
       "style": {
         "type": "rect",
         "ratio": 0.75
@@ -521,6 +623,9 @@
       "changeable": 1,
       "quickSearch": 1,
       "timeout": 15,
+      "header": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36"
+      },
       "style": {
         "type": "rect",
         "ratio": 0.75
@@ -536,6 +641,9 @@
       "changeable": 1,
       "quickSearch": 1,
       "timeout": 15,
+      "header": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36"
+      },
       "style": {
         "type": "rect",
         "ratio": 0.75
@@ -551,6 +659,9 @@
       "changeable": 1,
       "quickSearch": 1,
       "timeout": 15,
+      "header": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36"
+      },
       "style": {
         "type": "rect",
         "ratio": 0.75
@@ -566,6 +677,9 @@
       "changeable": 1,
       "quickSearch": 1,
       "timeout": 15,
+      "header": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36"
+      },
       "style": {
         "type": "rect",
         "ratio": 0.75
@@ -581,6 +695,9 @@
       "changeable": 1,
       "quickSearch": 1,
       "timeout": 15,
+      "header": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36"
+      },
       "style": {
         "type": "rect",
         "ratio": 0.75
@@ -596,6 +713,9 @@
       "changeable": 1,
       "quickSearch": 1,
       "timeout": 15,
+      "header": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36"
+      },
       "style": {
         "type": "rect",
         "ratio": 0.75
@@ -611,6 +731,9 @@
       "changeable": 1,
       "quickSearch": 1,
       "timeout": 15,
+      "header": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36"
+      },
       "style": {
         "type": "rect",
         "ratio": 0.75
@@ -626,6 +749,9 @@
       "changeable": 1,
       "quickSearch": 1,
       "timeout": 15,
+      "header": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36"
+      },
       "style": {
         "type": "rect",
         "ratio": 0.75
@@ -641,6 +767,9 @@
       "changeable": 1,
       "quickSearch": 1,
       "timeout": 15,
+      "header": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36"
+      },
       "style": {
         "type": "rect",
         "ratio": 0.75
@@ -656,6 +785,9 @@
       "changeable": 1,
       "quickSearch": 1,
       "timeout": 15,
+      "header": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36"
+      },
       "style": {
         "type": "rect",
         "ratio": 0.75
@@ -671,6 +803,9 @@
       "changeable": 1,
       "quickSearch": 1,
       "timeout": 15,
+      "header": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36"
+      },
       "style": {
         "type": "rect",
         "ratio": 0.75
@@ -686,6 +821,9 @@
       "changeable": 1,
       "quickSearch": 1,
       "timeout": 15,
+      "header": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36"
+      },
       "style": {
         "type": "rect",
         "ratio": 0.75
