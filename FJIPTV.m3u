@@ -83,8 +83,6 @@ http://27.148.240.185/PLTV/88888888/224/3221226929/1.m3u8
 http://27.148.240.185/PLTV/88888888/224/3221226980/1.m3u8
 #EXTINF:-1 tvg-id="143" tvg-name="中天新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="海外",中天新闻
 http://nmk.ioapk.com:5050/of-4gtv-4gtv009/index.m3u8
-#EXTINF:-1 tvg-id="144" tvg-name="TVBS新聞台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="海外",TVBS新聞台
-http://38.64.72.148/hls/modn/list/4027/playlist.m3u8
 #EXTINF:-1 tvg-id="72" tvg-name="三沙卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sansha.png" group-title="卫视",三沙卫视
 http://27.148.240.185/PLTV/88888888/224/3221227072/1.m3u8
 #EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视",天津卫视
