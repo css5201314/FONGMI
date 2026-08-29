@@ -145,21 +145,21 @@ http://27.148.240.185/PLTV/88888888/224/3221227332/1.m3u8
 http://27.148.240.185/PLTV/88888888/224/3221227335/1.m3u8
 #EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="卫视",西藏卫视
 http://27.148.240.185/PLTV/88888888/224/3221227344/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="未分类",央视网
+#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="福建台",央视网
 http://27.148.240.185/PLTV/88888888/224/3221226776/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="未分类",BesTV
+#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="福建台",BesTV
 http://27.148.240.185/PLTV/88888888/224/3221227005/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="未分类",BesTV
+#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="福建台",BesTV
 http://27.148.240.185/PLTV/88888888/224/3221227009/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="未分类",BesTV
+#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="福建台",BesTV
 http://27.148.240.185/PLTV/88888888/224/3221227013/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="未分类",BesTV
+#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="福建台",BesTV
 http://27.148.240.185/PLTV/88888888/224/3221227023/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="未分类",BesTV
+#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="福建台",BesTV
 http://27.148.240.185/PLTV/88888888/224/3221227039/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="未分类",BesTV
+#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="福建台",BesTV
 http://27.148.240.185/PLTV/88888888/224/3221227040/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="未分类",BesTV
+#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="福建台",BesTV
 http://27.148.240.185/PLTV/88888888/224/3221227044/1.m3u8
 #EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="数字付费",中国教育1台
 http://27.148.240.185/PLTV/88888888/224/3221226912/1.m3u8
@@ -179,37 +179,37 @@ http://27.148.240.185/PLTV/88888888/224/3221226754/1.m3u8
 http://27.148.240.185/PLTV/88888888/224/3221226835/1.m3u8
 #EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视",东南卫视
 http://27.148.240.185/PLTV/88888888/224/3221227363/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="未分类",福建电视剧
+#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="福建台",福建电视剧
 http://27.148.240.185/PLTV/88888888/224/3221226732/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="未分类",福建公共
+#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="福建台",福建公共
 http://27.148.240.185/PLTV/88888888/224/3221226928/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="未分类",福建教育
+#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="福建台",福建教育
 http://27.148.240.185/PLTV/88888888/224/3221226884/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="未分类",福建经济
+#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="福建台",福建经济
 http://27.148.240.185/PLTV/88888888/224/3221226920/1.m3u8
 #EXTINF:-1 tvg-id="2024" tvg-name="福建旅游" tvg-logo="http://pic1.kookong.com/images/logo/channel/FJTV6/FJTV6.jpg" group-title="地方",福建旅游
 http://27.148.240.185/PLTV/88888888/224/3221226854/1.m3u8
 #EXTINF:-1 tvg-id="2027" tvg-name="福建少儿" tvg-logo="http://pic1.kookong.com/images/logo/channel/FJTV9/FJTV9.jpg" group-title="地方",福建少儿
 http://27.148.240.185/PLTV/88888888/224/3221226738/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="未分类",福建文体
+#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="福建台",福建文体
 http://27.148.240.185/PLTV/88888888/224/3221226749/1.m3u8
 #EXTINF:-1 tvg-id="2022" tvg-name="福建新闻" tvg-logo="http://pic1.kookong.com/images/logo/channel/FJTV4/FJTV4.jpg" group-title="地方",福建新闻
 http://27.148.240.185/PLTV/88888888/224/3221226736/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="未分类",海峡卫视
+#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="福建台",海峡卫视
 http://27.148.240.185/PLTV/88888888/224/3221226748/1.m3u8
 #EXTINF:-1 tvg-id="68" tvg-name="厦门卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" group-title="卫视",厦门卫视
 http://27.148.240.185/PLTV/88888888/224/3221226744/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="未分类",华数电视剧
+#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="福建台",华数电视剧
 http://27.148.240.185/PLTV/88888888/224/3221226772/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="未分类",华数经典电影
+#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="福建台",华数经典电影
 http://27.148.240.185/PLTV/88888888/224/3221226758/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="未分类",华数经典电影
+#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="福建台",华数经典电影
 http://27.148.240.185/PLTV/88888888/224/3221227132/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="未分类",华数老电影
+#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="福建台",华数老电影
 http://27.148.240.185/PLTV/88888888/224/3221226892/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="未分类",家有购物
+#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="福建台",家有购物
 http://27.148.240.185/PLTV/88888888/224/3221226853/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="未分类",中国天气
+#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="福建台",中国天气
 http://27.148.240.185/PLTV/88888888/224/3221226861/1.m3u8
 #EXTINF:-1 tvg-id="1434" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="数字付费",嘉佳卡通
 http://27.148.240.185/PLTV/88888888/224/3221226890/1.m3u8
@@ -221,7 +221,7 @@ http://27.148.240.185/PLTV/88888888/224/3221226950/1.m3u8
 http://27.148.240.185/PLTV/88888888/224/3221227250/1.m3u8
 #EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="数字付费",卡酷少儿
 http://27.148.240.185/PLTV/88888888/224/3221226916/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="未分类",健身频道
+#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="福建台",健身频道
 http://27.148.240.185/PLTV/88888888/224/3221226845/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="未分类",测试频道
+#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="福建台",测试频道
 http://27.148.240.185/PLTV/88888888/224/3221226974/1.m3u8
