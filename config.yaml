@@ -1,0 +1,60 @@
+port: 7890
+socks-port: 7891
+allow-lan: false
+mode: rule
+log-level: info
+
+proxies:
+  - name: "Debian-Reality"
+    type: vless
+    server: 23.94.201.178
+    port: 443
+    uuid: 0c47e0ae-a2bd-4bda-8c1d-ca9831c70e8c
+    network: tcp
+    tls: true
+    udp: true
+    flow: xtls-rprx-vision
+    servername: gateway.icloud.com
+    reality-opts:
+      public-key: cVtAmfevFc71U7Gno9bBk6sVGMTqLLT6RKv0gTOjXGk
+      short-id: c4c241926a5daffd
+    client-fingerprint: chrome
+
+  - name: "Debian-Hy2"
+    type: hysteria2
+    server: 23.94.201.178
+    port: 443
+    password: QcXNTtlmdjCY8qV
+    sni: www.bing.com
+    skip-cert-verify: true
+    fast-open: true
+
+proxy-groups:
+  - name: "Proxy"
+    type: select
+    proxies:
+      - "Debian-Reality"
+      - "Debian-Hy2"
+
+rule-providers:
+  vod_direct_rule:
+    type: http
+    behavior: classical
+    url: "https://raw.githubusercontent.com/GodLike631/Shadow-Rocket/refs/heads/main/hdys_vod_direct.yaml"
+    path: ./ruleset/hdys_vod_direct.yaml
+    interval: 86400
+
+  vod_proxy_rule:
+    type: http
+    behavior: classical
+    url: "https://raw.githubusercontent.com/GodLike631/Shadow-Rocket/refs/heads/main/hdys_vod_proxy.yaml"
+    path: ./ruleset/hdys_vod_proxy.yaml
+    interval: 86400
+
+rules:
+  - GEOIP,lan,DIRECT,no-resolve
+  - RULE-SET,vod_direct_rule,DIRECT
+  - RULE-SET,vod_proxy_rule,Proxy
+  - GEOSITE,cn,DIRECT
+  - GEOIP,CN,DIRECT
+  - MATCH,Proxy
