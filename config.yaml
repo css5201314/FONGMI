@@ -40,14 +40,14 @@ rule-providers:
   vod_direct_rule:
     type: http
     behavior: classical
-    url: "https://raw.githubusercontent.com/GodLike631/Shadow-Rocket/refs/heads/main/hdys_vod_direct.yaml"
+    url: "https://v4.gh-proxy.org/https://raw.githubusercontent.com/GodLike631/Shadow-Rocket/refs/heads/main/hdys_vod_direct.yaml"
     path: ./ruleset/hdys_vod_direct.yaml
     interval: 86400
 
   vod_proxy_rule:
     type: http
     behavior: classical
-    url: "https://raw.githubusercontent.com/GodLike631/Shadow-Rocket/refs/heads/main/hdys_vod_proxy.yaml"
+    url: "https://v4.gh-proxy.org/https://raw.githubusercontent.com/GodLike631/Shadow-Rocket/refs/heads/main/hdys_vod_proxy.yaml"
     path: ./ruleset/hdys_vod_proxy.yaml
     interval: 86400
 
