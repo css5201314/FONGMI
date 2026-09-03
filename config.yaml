@@ -1,60 +1,41 @@
-port: 7890
-socks-port: 7891
-allow-lan: false
-mode: rule
-log-level: info
+listen: 0.0.0.0:443
 
-proxies:
-  - name: "Debian-Reality"
-    type: vless
-    server: 23.94.201.178
-    port: 443
-    uuid: 0c47e0ae-a2bd-4bda-8c1d-ca9831c70e8c
-    network: tcp
-    tls: true
-    udp: true
-    flow: xtls-rprx-vision
-    servername: gateway.icloud.com
-    reality-opts:
-      public-key: cVtAmfevFc71U7Gno9bBk6sVGMTqLLT6RKv0gTOjXGk
-      short-id: c4c241926a5daffd
-    client-fingerprint: chrome
+acme:
+  domains:
+    - vps.css520.dpdns.org
+  email: cjw9831@gmail.com
+  type: dns
+  dns:
+    name: cloudflare
+    config:
+      cloudflare_api_token: cfut_Udpmq04s9x0uPEyyuSTpvwAJwN9h1l8SNRsHeTqJ1a63ffde
 
-  - name: "Debian-Hy2"
-    type: hysteria2
-    server: 23.94.201.178
-    port: 443
-    password: QcXNTtlmdjCY8qV
-    sni: www.bing.com
-    skip-cert-verify: true
-    fast-open: true
+auth:
+  type: password
+  password: c83d79093d92a578a3dd6970f2401136ae27dc63862f9cb723b0f0172e556a23
 
-proxy-groups:
-  - name: "Proxy"
-    type: select
-    proxies:
-      - "Debian-Reality"
-      - "Debian-Hy2"
+outbounds:
+  - name: direct
+    type: direct
 
-rule-providers:
-  vod_direct_rule:
-    type: http
-    behavior: classical
-    url: "https://v4.gh-proxy.org/https://raw.githubusercontent.com/GodLike631/Shadow-Rocket/refs/heads/main/hdys_vod_direct.yaml"
-    path: ./ruleset/hdys_vod_direct.yaml
-    interval: 86400
+  - name: warp
+    type: socks5
+    socks5:
+      addr: 127.0.0.1:40000
 
-  vod_proxy_rule:
-    type: http
-    behavior: classical
-    url: "https://v4.gh-proxy.org/https://raw.githubusercontent.com/GodLike631/Shadow-Rocket/refs/heads/main/hdys_vod_proxy.yaml"
-    path: ./ruleset/hdys_vod_proxy.yaml
-    interval: 86400
+acl:
+  inline:
+    - warp(suffix:gemini.google.com)
+    - warp(suffix:generativelanguage.googleapis.com)
+    - warp(suffix:ai.google.dev)
+    - warp(suffix:googleapis.com)
+    - warp(suffix:googleusercontent.com)
+    - warp(suffix:gstatic.com)
+    - warp(suffix:google.com)
+    - direct(all)
 
-rules:
-  - GEOIP,lan,DIRECT,no-resolve
-  - RULE-SET,vod_direct_rule,DIRECT
-  - RULE-SET,vod_proxy_rule,Proxy
-  - GEOSITE,cn,DIRECT
-  - GEOIP,CN,DIRECT
-  - MATCH,Proxy
+masquerade:
+  type: proxy
+  proxy:
+    url: https://news.ycombinator.com/
+    rewriteHost: true
