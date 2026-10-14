@@ -1,0 +1,74 @@
+# ==================== 四川广播电视台 ====================
+#EXTINF:-1 tvg-name="四川综合广播" group-title="地方广播-四川",四川综合广播 (FM 98.1)
+http://lhttp.qingting.fm/live/1349/64k.mp3
+
+#EXTINF:-1 tvg-name="四川交通广播" group-title="地方广播-四川",四川交通广播 (FM 101.7)
+http://lhttp.qingting.fm/live/1344/64k.mp3
+
+#EXTINF:-1 tvg-name="四川音乐广播" group-title="地方广播-四川",四川音乐广播 岷江音乐 (FM 95.5)
+http://lhttp.qingting.fm/live/1345/64k.mp3
+
+#EXTINF:-1 tvg-name="成都交通广播" group-title="地方广播-四川",成都交通广播 (FM 91.4)
+http://lhttp.qingting.fm/live/1360/64k.mp3
+
+# ==================== 浙江广播电视集团 ====================
+#EXTINF:-1 tvg-name="浙江交通之声" group-title="地方广播-浙江",浙江交通之声 (FM 93.0)
+http://lhttp.qingting.fm/live/4934/64k.mp3
+
+#EXTINF:-1 tvg-name="浙江音乐调频" group-title="地方广播-浙江",动听968 浙江音乐调频 (FM 96.8)
+http://lhttp.qingting.fm/live/4936/64k.mp3
+
+#EXTINF:-1 tvg-name="浙江之声" group-title="地方广播-浙江",浙江之声 (FM 88.0 / AM 810)
+http://lhttp.qingting.fm/live/4933/64k.mp3
+
+# ==================== 江苏省广播电视总台 ====================
+#EXTINF:-1 tvg-name="江苏新闻广播" group-title="地方广播-江苏",江苏新闻广播 (FM 93.7)
+http://lhttp.qingting.fm/live/1271/64k.mp3
+
+#EXTINF:-1 tvg-name="江苏交通广播网" group-title="地方广播-江苏",江苏交通广播网 (FM 101.1)
+http://lhttp.qingting.fm/live/1273/64k.mp3
+
+#EXTINF:-1 tvg-name="江苏经典流行音乐台" group-title="地方广播-江苏",江苏经典流行音乐台 (FM 97.5)
+http://lhttp.qingting.fm/live/1272/64k.mp3
+
+# ==================== 其他省市重点电台 ====================
+#EXTINF:-1 tvg-name="楚天交通广播" group-title="地方广播-湖北",湖北 楚天交通广播 (FM 92.7)
+http://lhttp.qingting.fm/live/1435/64k.mp3
+
+#EXTINF:-1 tvg-name="陕西交通广播" group-title="地方广播-陕西",陕西交通广播 (FM 91.6)
+http://lhttp.qingting.fm/live/1598/64k.mp3
+
+#EXTINF:-1 tvg-name="重庆音乐广播" group-title="地方广播-重庆",重庆音乐广播 (FM 88.8)
+http://lhttp.qingting.fm/live/1381/64k.mp3
+
+# ==================== 全球经典爵士电台 (Jazz) ====================
+#EXTINF:-1 tvg-name="Jazz24" group-title="爵士音乐",Jazz24 (西雅图公共爵士台 - 纯正爵士)
+https://live.wostreaming.net/manifest/kplufm-jazz24aac-ibc1.m3u8
+
+#EXTINF:-1 tvg-name="TSF Jazz" group-title="爵士音乐",TSF JAZZ (法国巴黎全天候爵士)
+http://tsfjazz.ice.infomaniak.ch/tsfjazz-high.mp3
+
+#EXTINF:-1 tvg-name="SmoothJazz.com" group-title="爵士音乐",SmoothJazz.com Global (平稳轻柔爵士)
+https://smoothjazz.cdnstream1.com/2585_128.mp3
+
+#EXTINF:-1 tvg-name="Swiss Groove" group-title="爵士音乐",Radio Swiss Jazz (瑞士高品质无广告爵士)
+http://stream.srg-ssr.ch/m/rsj/mp3_128
+
+#EXTINF:-1 tvg-name="Linn Jazz" group-title="爵士音乐",Linn Jazz (英国顶级音响厂牌 Linn 320kbps 高清流)
+http://radio.linn.co.uk:8000/autodj/stream/192
+
+# ==================== 全球经典古典乐台 (Classical) ====================
+#EXTINF:-1 tvg-name="Swiss Classic" group-title="古典音乐",Radio Swiss Classic (瑞士纯古典·无主持人打扰)
+http://stream.srg-ssr.ch/m/rsc_de/mp3_128
+
+#EXTINF:-1 tvg-name="BBC Radio 3" group-title="古典音乐",BBC Radio 3 (英国高规格古典演播与音乐节)
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_three
+
+#EXTINF:-1 tvg-name="WQXR Classical" group-title="古典音乐",WQXR 105.9 FM (纽约知名古典音乐台)
+https://stream.wqxr.org/wqxr
+
+#EXTINF:-1 tvg-name="Linn Classical" group-title="古典音乐",Linn Classical (发烧友首选·英国高保真古典流)
+http://radio.linn.co.uk:8000/autodj/stream/194
+
+#EXTINF:-1 tvg-name="KUSC" group-title="古典音乐",Classical KUSC (洛杉矶古典音乐旗舰台)
+http://kusc-live.streamguys1.com/kusc-128k-aac
